@@ -32,7 +32,9 @@ export default function RootLayout({ children }) {
           </ul>
         </nav>
         {children}
-
+      <footer>
+        This is my footer
+      </footer>
       </body>
     </html>
   );
